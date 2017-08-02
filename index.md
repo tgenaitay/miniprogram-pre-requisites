@@ -6,8 +6,8 @@ This crash course will get you up and running with WeChat mini-programs, and tea
 
 *Here are two examples:*
 
-👉 [SeeMe](http://seeme.ninja/)
-(built by Le Wagon batch#61 students)
+👉 [SeeMe](http://seeme.ninja/) (built by Le Wagon batch#61 students)
+
 ![SeeMe](images/SeeMeQR.png)
 
 👉 Le Wagon Talents Recruitment (available in the official account)
